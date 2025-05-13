@@ -18,6 +18,7 @@ E:\Personal\Codes\microservices-dotnet9\RestWithAspNetUdemy\RestWithAspNetUdemy\
 E:\Personal\Codes\microservices-dotnet9\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\net9.0\RestWithAspNetUdemy.csproj.CoreCompileInputs.cache
 E:\Personal\Codes\microservices-dotnet9\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\net9.0\RestWithAspNetUdemy.MvcApplicationPartsAssemblyInfo.cs
 E:\Personal\Codes\microservices-dotnet9\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\net9.0\RestWithAspNetUdemy.MvcApplicationPartsAssemblyInfo.cache
+E:\Personal\Codes\microservices-dotnet9\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\net9.0\RestWithAspNetUdemy.sourcelink.json
 E:\Personal\Codes\microservices-dotnet9\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\net9.0\scopedcss\bundle\RestWithAspNetUdemy.styles.css
 E:\Personal\Codes\microservices-dotnet9\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\net9.0\staticwebassets.build.json
 E:\Personal\Codes\microservices-dotnet9\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\net9.0\staticwebassets.development.json
