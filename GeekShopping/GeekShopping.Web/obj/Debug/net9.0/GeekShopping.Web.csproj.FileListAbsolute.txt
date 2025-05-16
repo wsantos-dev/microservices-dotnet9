@@ -85,15 +85,10 @@ E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets.build.json
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets.development.json
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets\msbuild.GeekShopping.Web.Microsoft.AspNetCore.StaticWebAssets.props
-E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets\msbuild.GeekShopping.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets\msbuild.build.GeekShopping.Web.props
-E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GeekShopping.Web.props
-E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GeekShopping.Web.props
-E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets.pack.json
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\GeekShopping.Web.dll
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\refint\GeekShopping.Web.dll
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\GeekShopping.Web.pdb
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\GeekShopping.Web.genruntimeconfig.cache
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\ref\GeekShopping.Web.dll
+E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
