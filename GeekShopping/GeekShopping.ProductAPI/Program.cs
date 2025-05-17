@@ -8,9 +8,9 @@ var builder = WebApplication.CreateBuilder(args);
 var connection = builder.Configuration.GetConnectionString("MySqlConnectionString");
 
 builder.Services.AddDbContext<MySQLContext>(options => options
-    .UseMySql(connection, 
-        new MySqlServerVersion(
-            new Version(9, 3, 9))));
+    .UseMySql(connection,
+        ServerVersion.AutoDetect(connection),
+        mysqlOptions => mysqlOptions.EnableRetryOnFailure()));
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi

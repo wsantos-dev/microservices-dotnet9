@@ -83,6 +83,7 @@ E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\compressed\swl0wg6nc9-t6p179azch.gz
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\compressed\jbujtfr27n-t6p179azch.gz
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets.build.json
+E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets.development.json
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
@@ -91,4 +92,3 @@ E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\GeekShopping.Web.pdb
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\GeekShopping.Web.genruntimeconfig.cache
 E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\ref\GeekShopping.Web.dll
-E:\Personal\Codes\microservices-dotnet9\GeekShopping\GeekShopping.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
